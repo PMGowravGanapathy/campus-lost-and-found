@@ -4,7 +4,7 @@ A modern web application that helps students and staff report, search, and recov
 
 ---
 
-#🔗 Live Demo: https://campus-lost-and-found-zeta.vercel.app/login
+#🔗 Live Demo: https://campus-lost-and-found-zeta.vercel.app/home
 ---
 
 ## 🚀 Features
